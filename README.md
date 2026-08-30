@@ -18,3 +18,6 @@ for an evidence-bounded record of foundational concepts derived from
 handwritten learning notes. For executable, safety-conscious practice steps for
 Linux, SSH, file operations, text processing, and user administration, see the
 [Linux and SSH Assignment Guide](docs/learning/linux-and-ssh-assignment-guide.md).
+For learning notes on continuous delivery, integrated security practices, and
+responsible AIOps concepts with future AWS considerations, see
+[DevSecOps with AIOps and AWS](docs/learning/devsecops-aiops-and-aws.md).
